@@ -1,5 +1,11 @@
 
 # Práctica JWT con Node.js y Postman
+## Enlace a presentación Canva
+
+Puedes ver la presentación haciendo clic en el siguiente enlace:
+
+[![Ver Presentación en Canva](https://img.shields.io/badge/Ver%20Presentaci%C3%B3n-Canva-brightgreen?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAGTx70Laxs/sHDQ4qovdAtu2Uuc_B2Q2Q/view?utm_content=DAGTx70Laxs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ## Descripción
 Este proyecto es una implementación sencilla de autenticación usando **JSON Web Tokens (JWT)**. Permite generar tokens al iniciar sesión y acceder a una ruta protegida utilizando esos tokens.
