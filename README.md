@@ -115,9 +115,9 @@ La estructura del proyecto es la siguiente:
 ```
 /jwt-practice
 ├── node_modules/
-├── index.js (archivo principal del servidor)
+├── index.js
 ├── package.json
-└── README.md (este archivo)
+└── README.md 
 ```
 
 ### 6. Notas adicionales
